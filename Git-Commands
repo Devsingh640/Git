@@ -1,0 +1,11 @@
+git --version
+
+git status
+
+git add                            //will add a perticular file with modification for commit
+git add .                          //will add all files with modification for commit
+
+git commit
+git commit -m  "type message here" //this will add a message along with commit key kya kara comment k terha
+
+git push 
